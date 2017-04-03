@@ -74,6 +74,20 @@ General comments
 - Competitive & conflicting guidance; bureaucrats dodging bullets from compatriots
 - Infrastructure is a major barrier.  We bring in designers who need Macs and Mac-based applications.  There is institutional skepticism of the need for these supplies, so we jump through major hoops to get them procured.
 - People like HCD and also they find it useful.  I think that is the key selling point.  Unlike other methods, it's not a grind - people think it's fun!  Then they also gain the benefits of whatever topic they&#39;re exploring in HCD.  Yet, a major barrier is time. Doing a full-fledged HCD or innovation project can take time.  Leaders need to be persuaded that the benefits (and enhanced employee morale) of HCD/innovation outweigh any significant time commitment.
+- Understanding what innovation really is, how they can apply it, what tools they can use, where to find guidance, etc… 
+- Acknowledgement that failure and experimentation is ok, how to learn from it, and how to move on
+- Expertise in developing their pitch for innovative activities and responses to combat negatives
+- Lack of understanding and functional knowledge of the federal ecosystem, innovation ecosystem, potential partners/stakeholders, and so forth
+- People, Process, and Technology – Existing ones and their gatekeepers can thwart innovation unless approached strategically and effectively
+- Not knowing what you don’t know? No one person knows everything and institutional knowledge and connections are critical components (Especially for New Govvies) - A. Overall and within each agency: 1.	Who are the leaders, supporters, champions, helpers, “potentially, those to avoid”, 2.	Best way to navigate the system to achieve results and minimize red tape battles, 3.	SMEs by functional areas for expert guidance, B.	Who and how to contact for information, data, and so forth?
+- Misaligned incentives across agencies and government, including: Performance Management Appraisal Plans (PMAPs) & Acquisition Lifecycle has many misaligned incentives
+- Culture
+- Risk Aversion
+- Lack of consistency and standardization where it’s needed, potentially including interpretation of the FAR, Grant Regs, other Regs, HR policies, IT policies, etc…
+- Ineffective and outdated training models
+- Lack of transparency, collaboration, and sharing to mitigate waste, fraud, & abuse, & redundancy
+- Ineffective and inefficient operations (within agencies and government-wide) within many functional areas, including but not limited to: HR, Procurement, IT, and so forth (i.e. Lack of: Automation, End-user focus, standardization, modern practices and tools, etc…)0
+- Fear, stemming from various things – including real or perceived loss of market share/piece of the pie
 
 ## Activity 2: Defining &quot;Better Government&quot;
 
